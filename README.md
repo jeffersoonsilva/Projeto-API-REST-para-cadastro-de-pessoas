@@ -6,7 +6,7 @@ Este projeto é uma **API REST** desenvolvida com **Spring Boot** para realizar 
 
 - Nome: Jefferson da Silva 
 - Matrícula: 01692080
-- 
+  
 ## 🚀 Funcionalidades
 
 - Criar uma nova pessoa (`POST /pessoa`)
