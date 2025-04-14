@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projeto-API-REST-para-cadastro-de-pessoas.iml" filepath="$PROJECT_DIR$/.idea/Projeto-API-REST-para-cadastro-de-pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meuProjeto/meuProjeto.iml" filepath="$PROJECT_DIR$/meuProjeto/meuProjeto.iml" />
+    </modules>
+  </component>
+</project>
