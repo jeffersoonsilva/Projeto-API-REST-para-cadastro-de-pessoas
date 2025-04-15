@@ -6,6 +6,10 @@ Este projeto é uma **API REST** desenvolvida com **Spring Boot** para realizar 
 
 - **Nome**: Jefferson da Silva  
 - **Matrícula**: 01692080
+  
+- **Nome**: Carlos Lucas Carneiros de Albuquerque 
+- **Matrícula**: 01724444
+  
 
 ## 🚀 Funcionalidades
 
